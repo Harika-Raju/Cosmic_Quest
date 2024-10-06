@@ -23,16 +23,19 @@ now in terminal, using cd command, locate to the path of directory where you sto
    ```bash
    Venv_name\Scripts\activate
    ```bash
+
 3) install all requirements
    ```bash
    pip install requirements.txt
    ```
+
 4) Run test.py
    ```bash
    python test.py
    ```
    Running test.py will download and save the models (llm,sentence transformers) in the directory mentioned
-5) Run ml.py
+   
+6) Run ml.py
    ```bash
    python ml.py
    ```
