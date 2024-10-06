@@ -15,6 +15,8 @@ First run test.py to download rag models
 ml.py for ml models
 main .py for rag models
 
+NOTE:PLEASE CHANGE PATHS IN MAIN.PY ACCORDING TO YOUR SYSTEM
+
 
 
 
