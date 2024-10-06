@@ -10,12 +10,13 @@ Steps to clone the app:
 
 Steps to run server:
 
-steps:
-cd fastapi_backend
-python3 -m venv venv
-source venv/bin/activate  # For Windows: venv\Scripts\activate
-pip install -r requirements.txt
-uvicorn main:app --reload
+First run test.py to download rag models
+
+ml.py for ml models
+main .py for rag models
+
+
+
 
 Note: Before running it , change the paths in main.py to your laptop path where the files are there for data.txt, planets_faiss.index, id_to_planet.pkl and run it
 
