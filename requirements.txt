@@ -1,0 +1,3 @@
+pip install fastapi uvicorn transformers sentence-transformers faiss-cpu torch
+
+pip install pandas numpy 
